@@ -1,0 +1,10 @@
+generator,verifier,accepts,challenges,n,beta_m
+claude,claude,35,59,94,0.3723
+claude,gpt4o,51,49,100,0.5100
+claude,llama,86,14,100,0.8600
+gpt4o,claude,25,74,99,0.2525
+gpt4o,gpt4o,48,52,100,0.4800
+gpt4o,llama,81,19,100,0.8100
+llama,claude,28,68,96,0.2917
+llama,gpt4o,34,66,100,0.3400
+llama,llama,77,23,100,0.7700

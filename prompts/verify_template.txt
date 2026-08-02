@@ -1,0 +1,7 @@
+Question: {question}
+
+Agent 1 answered: "{peer_answer}"
+
+Verify. Respond only: "ACCEPT" if correct, "CHALLENGE" if wrong.
+
+Response:

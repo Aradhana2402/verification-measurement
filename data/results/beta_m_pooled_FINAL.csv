@@ -1,0 +1,4 @@
+verifier,easy_accepts,easy_n,easy_beta,rare_accepts,rare_n,rare_beta
+claude,0,47,0.0000,88,289,0.3045
+gpt4o,1,47,0.0213,133,300,0.4433
+llama,4,47,0.0851,244,300,0.8133
