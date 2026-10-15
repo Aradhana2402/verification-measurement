@@ -1,0 +1,114 @@
+[
+ {
+  "id": "fresh_005",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_014",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_027",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_045",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_087",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_120",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_128",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_142",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_160",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_182",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_190",
+  "generator": "gpt4o"
+ },
+ {
+  "id": "fresh_017",
+  "generator": "claude"
+ },
+ {
+  "id": "fresh_040",
+  "generator": "claude"
+ },
+ {
+  "id": "fresh_087",
+  "generator": "claude"
+ },
+ {
+  "id": "fresh_142",
+  "generator": "claude"
+ },
+ {
+  "id": "fresh_027",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_049",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_082",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_087",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_091",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_095",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_106",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_129",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_160",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_170",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_172",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_188",
+  "generator": "llama"
+ },
+ {
+  "id": "fresh_197",
+  "generator": "llama"
+ }
+]
